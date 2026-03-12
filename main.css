@@ -1,0 +1,21 @@
+#coolID {
+    color: #FF9ABF;
+}
+#coolID1{
+    background-color: #5D4E7A;
+}
+#treat-btn{
+    color: #ce0ea4;
+    border: 0;
+    padding: 10px 20px;
+    border-radius: 12px;
+    font-size: 16px;
+    cursor: pointer;
+}
+#treat-btn:hover{
+    background-color: gray;
+}
+
+
+
+
